@@ -1,0 +1,5 @@
+{
+  "name": "Maroc Marchés Publics - Analyseur",
+  "description": "Analyse automatique des offres financières des marchés publics marocains avec IA et OCR.",
+  "requestFramePermissions": []
+}
